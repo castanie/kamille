@@ -1,0 +1,8 @@
+# editor
+
+.vscode
+
+# dotnet
+
+bin
+obj
