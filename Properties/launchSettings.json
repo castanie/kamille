@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "kamille (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "kamille (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
